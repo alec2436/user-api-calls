@@ -1,0 +1,10 @@
+Name,Role,CreatedOn,Last Login,Activated,ProjectName,Access,Savings,Best Practices,Alerts,Cost Reports,Resource Utilization Reports,Inventory,Security,Automation,Edit Emails,Blended Costs,Unblended Costs,List Costs,Trending Reports,Change Monitoring,Account Notification,See Partner Tools,Edit Partner Tools,See API Keys
+admincloudcheckr@protonmail.com,BasicUser,2017-06-27 9:14:47,,TRUE,Alec Rajeev's Account,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+alec.rajeev+test@cloudcheckr.com,BasicUser,2017-07-10 11:54:14,,FALSE,Alec Rajeev's Account,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+alec2436@gmail.com,User,2017-07-10 8:50:19,,TRUE,AWS-2150Account,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+cloudcheckr1@protonmail.com,BasicUser,2017-06-27 9:17:34,,TRUE,AWS-2150Account,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0
+cloudcheckr2@protonmail.com,User,2017-06-27 9:33:22,2017-06-27 10:25:41,TRUE,Alec Rajeev's Account,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cloudcheckr2@protonmail.com,User,2017-06-27 9:33:22,2017-06-27 10:25:41,TRUE,AWS-2150Account,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cloudcheckr3@protonmail.com,BasicUser,2017-07-06 13:54:30,,TRUE,AWS-2150Account,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+cloudcheckr4@protonmail.com,BasicUser,2017-07-20 16:07:40,2017-08-03 10:13:57,TRUE,AWS-2150Account,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+nate.ennis+alectest@cloudcheckr.com,BasicUser,2017-07-24 14:30:29,2017-07-24 14:33:31,TRUE,Alec Rajeev's Account,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
