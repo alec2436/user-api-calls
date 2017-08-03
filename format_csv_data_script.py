@@ -67,7 +67,8 @@ def change_user_permissions_api2(api_key,json_dump2):
 
 
 for i in np.arange(1, np.shape(B_numpy)[0]):
-	print B_numpy[i][0]
+	print "editing permissions for " + str(B_numpy[i][0]) + " on the account " + str(B_numpy[i][5])
 	if int(B_numpy[i][6]): # if the account has Access as true
 		input_paramters = build_json_parameters(B_numpy[i][0],B_numpy[i][5],B_numpy[i][6:25])
 		change_user_permissions_api2(apikey_value, input_paramters)
+	print "finished w/ permissions for " + str(B_numpy[i][0]) + " on the account " + str(B_numpy[i][5]) + "\n"

@@ -1,0 +1,36 @@
+editing permissions for admincloudcheckr@protonmail.com on the account Alec Rajeev's Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for admincloudcheckr@protonmail.com on the account Alec Rajeev's Account
+
+editing permissions for alec.rajeev+test@cloudcheckr.com on the account Alec Rajeev's Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for alec.rajeev+test@cloudcheckr.com on the account Alec Rajeev's Account
+
+editing permissions for alec2436@gmail.com on the account AWS-2150Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for alec2436@gmail.com on the account AWS-2150Account
+
+editing permissions for cloudcheckr1@protonmail.com on the account AWS-2150Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for cloudcheckr1@protonmail.com on the account AWS-2150Account
+
+editing permissions for cloudcheckr2@protonmail.com on the account Alec Rajeev's Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for cloudcheckr2@protonmail.com on the account Alec Rajeev's Account
+
+editing permissions for cloudcheckr2@protonmail.com on the account AWS-2150Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for cloudcheckr2@protonmail.com on the account AWS-2150Account
+
+editing permissions for cloudcheckr3@protonmail.com on the account AWS-2150Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for cloudcheckr3@protonmail.com on the account AWS-2150Account
+
+editing permissions for cloudcheckr4@protonmail.com on the account AWS-2150Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for cloudcheckr4@protonmail.com on the account AWS-2150Account
+
+editing permissions for nate.ennis+alectest@cloudcheckr.com on the account Alec Rajeev's Account
+{u'Message': u'OK', u'Code': 200}
+finished w/ permissions for nate.ennis+alectest@cloudcheckr.com on the account Alec Rajeev's Account
+
