@@ -61,8 +61,6 @@ def change_user_permissions_api2(api_key,json_dump2):
 	half_url = 'https://api.cloudcheckr.com/api/account.json/grant_account'
 
 	resp = requests.post(half_url, data=json_dump2, headers = {"Content-type": "application/json", "access_key": api_key})
-	# print "running api for account: " + account_name
-	# print "running api for user: " + user_email
 	print resp.json()
 
 
